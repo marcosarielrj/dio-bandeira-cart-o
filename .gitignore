@@ -2,3 +2,4 @@ refs/desktop.ini
 *.ini
 desktop.ini
 *.gdoc
+.vscode/*
